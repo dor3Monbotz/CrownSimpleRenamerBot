@@ -2,7 +2,7 @@
   "name": "Simple-Rename-Bot",
   "description": "Simple & High Speed Telegram File Rename Bot For only personal use",                  
   "keywords": ["telegram", "Rename-bot", "pyrogram"],
-  "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
+  "logo": "https://te.legra.ph/file/d69188f08b5cb4fdd2a27.jpg",
   "repository": "https://github.com/dor3Monbotz/CrownSimpleRenamerBot",
   "env": {
     "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
